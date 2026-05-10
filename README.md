@@ -40,6 +40,7 @@ data/               -> Dataset used for the analysis
 scripts/            -> R analysis scripts
 visualizations/     -> Generated charts and visual outputs
 report/             -> Project summary and documentation
+```
 ## Key Visualizations
 
 ### Scree Plot
